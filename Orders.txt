@@ -1,0 +1,12 @@
+
+--- New Order ---
+Dummy 1 x2 = Rs. 2000
+Dummy 3 x5 = Rs. 2500
+Dummy 2 x6 = Rs. 600
+Total: Rs. 5100
+
+--- New Order ---
+Dummy 3 x2 = Rs. 1000
+Dummy 2 x2 = Rs. 200
+Total: Rs. 1200
+
